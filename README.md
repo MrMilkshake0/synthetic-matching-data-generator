@@ -1,7 +1,7 @@
 # Synthetic Data Generator for Matching Algorithms
 
 ## Overview
-This project is an **AI-powered system** that synthesizes user responses to **over 130 relationship-centric questions**. It generates realistic, nuanced personality profiles and corresponding survey responses to aid in the development and testing of **matching algorithms** for romantic or friendship connections.
+This project is an **AI-powered system** that synthesizes user responses to **130 relationship-centric questions**. It generates realistic, nuanced personality profiles and corresponding survey responses to aid in the development and testing of **matching algorithms** for romantic or friendship connections.
 
 ## Features
 - **Automated Personality Generation:** Creates detailed psychological profiles using AI, incorporating factors like **IQ**, **Big Five traits**, **MBTI types**, and **income**.
